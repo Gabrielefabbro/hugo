@@ -11,6 +11,7 @@ enableEmoji = true
 googleAnalytics = ""
 enableRobotsTXT = true
 copyright = "&copy; Copyright Year, Your Name"
+publishDir = "public" 
 
 # Main menu items
 [menu]
