@@ -5,7 +5,7 @@
 baseURL = "https://gabrielefabbro.github.io/hugo/"
 title = "Your Website Title"
 languageCode = "en-us"
-theme = "devise"
+theme = "FixIt"
 relativeURLs = true
 enableEmoji = true
 googleAnalytics = ""
